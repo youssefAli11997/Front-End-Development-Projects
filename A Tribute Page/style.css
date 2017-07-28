@@ -12,6 +12,7 @@ h1 {
 .image-div {
   background-color: white;
   padding: 0.5%;
+  margin: 0 auto;
   border-radius: 1%;
 }
 
