@@ -1,0 +1,16 @@
+.container-fluid {
+  background-color: #DDD;
+  margin: 5%;
+  padding: 5%;
+}
+
+h1 {
+  font-size: 350%;
+  font-weight: bold;
+}
+
+.image-div {
+  background-color: white;
+  padding: 0.5%;
+  border-radius: 1%;
+}
